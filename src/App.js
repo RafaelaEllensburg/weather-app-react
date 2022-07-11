@@ -6,6 +6,15 @@ function App() {
     <div className="App">
       <h1>Weather App</h1>
       <Weather />
+      <p>
+        <a
+          href="https://github.com/RafaelaEllensburg/weather-app-react"
+          target="_blank"
+        >
+          Open-source code
+        </a>{" "}
+        by Rafaela Ellensburg
+      </p>
     </div>
   );
 }
